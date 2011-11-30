@@ -4,4 +4,11 @@ Chat area is larger, roster is smaller and the usersname will appear over the th
 
 Two new images for room owner and moderators as seen in Adium.im
 
+Place the following in your head, after the default.css
+
+
+<link rel="stylesheet" type="text/css" href="PATH-TO/simples/simples.css" />
+
+Naturally you need to replace the "PATH-TO" with your path.
+
 --== Changes By Timothy Bowers - sjbowers.net ==--
